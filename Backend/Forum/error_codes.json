@@ -1,0 +1,13 @@
+{
+	"1": "User is not authenticated",
+	"2": "User is not allowed to access this resource",
+	"3": "Resource not found",
+	"5": "Invalid request body",
+	"6": "Invalid request parameters",
+	"7": "Server side error",
+	"8": "Can vouch/modify user reputation once",
+	"9": "Cannot vouch/modify user reputation of yourself",
+	"10": "You have not vouched for user",
+	"11": "Could not verify signature. IP has been banned",
+	"12": "You are banned from the forum until %s. Reason: %s"
+}

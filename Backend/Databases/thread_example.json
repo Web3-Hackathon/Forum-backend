@@ -1,0 +1,20 @@
+[{
+    "_id": {
+        "$oid": ""
+    },
+    "thread_id": 0,
+    "creation_date": 1654520377,
+    "hidden": false,
+    "content": ""
+}
+,
+{
+    "_id": {
+        "$oid": ""
+    },
+    "reply_index": 0,
+    "creation_date": 0,
+    "thread_id": 0,
+    "like_count": 0,
+    "author": ""
+}]

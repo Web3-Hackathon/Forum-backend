@@ -1,0 +1,13 @@
+Backend/NftTesting/*
+Backend/NftTesting
+Backend/Databases/.idea
+Backend/Databases/mongodb_data
+Backend/Databases/mysql_data
+Backend/Databases/*.py
+docker-elk/*
+docker-elk/
+tests/*
+*.idea/*
+Backend/Databases/threads.json
+Backend/Databases/replies.json
+Backend/Databases/docker_files/mongo_test.py

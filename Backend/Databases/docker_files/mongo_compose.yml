@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+
+    mongodb:
+        image : mongo
+        container_name: mongodb_crypto_forum
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: admin
+            MONGO_INITDB_ROOT_PASSWORD: LoL187!!
+        volumes:
+            - /root/mongodb/data/db:/data/db
+        ports:
+            - 27017:27017
+        restart: unless-stopped
